@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "50m server",
+      "name" : "50M SERVER",
+      "version" : "2025-04-20-08-25-36",
+      "location" : "50m-server.json",
+      "priority" : 0
+    }
+  ]
+}
